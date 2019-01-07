@@ -1,5 +1,5 @@
 # Django_Blog_Project
-==========================
+
 ## Project Description:
 User can create their profile and upload their blog and share with other users.
 

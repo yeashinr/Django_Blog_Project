@@ -1,7 +1,7 @@
 # Django_Blog_Project
 
 ## Project Description:
-User can create their profile and upload their blog and share with other users.
+This website is a basic blog site, where users can create topics of their choice. To do it,users need to register with their credentials for login to create the topics.
 
 ### Built With:
 
